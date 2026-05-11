@@ -6,11 +6,11 @@
 
 ### Application/Tools Used:
 
-- **[VSCode](https://code.visualstudio.com/).
-- **[Xampp](https://www.apachefriends.org/).
-- **[Composer](https://getcomposer.org/doc/).
-- **[Node.js](https://nodejs.org/docs/latest/api/).
-- **[Git](https://git-scm.com/).
+- **[VSCode](https://code.visualstudio.com/).**
+- **[Xampp](https://www.apachefriends.org/).**
+- **[Composer](https://getcomposer.org/doc/).**
+- **[Node.js](https://nodejs.org/docs/latest/api/).**
+- **[Git](https://git-scm.com/).**
 
 
 <!--<p align="center">
