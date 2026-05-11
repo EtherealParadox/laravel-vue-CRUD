@@ -34,7 +34,7 @@
                 </table>
             </div>
         </div>
-    </div>
+</div>
 
     <div class="container mx-auto pt-5">
         <!--
@@ -54,7 +54,7 @@
 </template>
 
 <script setup>
-import { Head } from '@inertiajs/vue3'
+import { Head } from '@inertiajs/vue3';
 import { defineProps } from 'vue';
 import { Link } from '@inertiajs/vue3';
 
