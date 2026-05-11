@@ -34,25 +34,6 @@
             </form>
         </div>
     </div>
-    <!--<div class="post__create">
-        <form @submit.prevent="form.put(`/post/update/${post.id}`)">
-            <div>
-                <label>Title</label>
-                <input type="text" v-model="form.title" />
-            </div>
-            <div>
-                <label>Author</label>
-                <input type="text" v-model="form.author" />
-            </div>
-            <div>
-                <label>Content</label>
-                <textarea type="text" v-model="form.content"></textarea>
-            </div>
-            <div>
-                <input type="submit" value="Update post">
-            </div>
-        </form>
-    </div>-->
 </template>
 
 <script setup>

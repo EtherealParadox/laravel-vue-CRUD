@@ -1,14 +1,12 @@
 <template>
-  <Head title="Main Page" />
-
-<div class="container">
+    <Head title="Main Page" />
+    <div class="container">
         <div class="row">
             <div class="col-12 mt-5 mb-5 text-center">
                 <h1>Laravel Vue.js CRUD</h1>
                 <br>
                 <Link href="/post/create" class="btn btn-primary btn-lg">Create Post</Link>
             </div>
-
             <div class="col-12 mt-5">
                 <table class="table">
                     <thead>
@@ -34,22 +32,6 @@
                 </table>
             </div>
         </div>
-</div>
-
-    <div class="container mx-auto pt-5">
-        <!--
-        <nav>
-            <Link href="/post/create">Create Post</Link>
-        </nav>
-
-        <div class="post__block" v-for="post in posts" :key="post.id">
-            <h2>{{ post.title }}</h2>
-            <p>{{ post.author }}</p>
-            <Link :href="`/post/${post.id}`">Read more</Link> | 
-            <Link :href="`/post/edit/${post.id}`">Edit post</Link> |
-            <Link :href="`/post/delete/${post.id}`" method="DELETE">Delete post</Link>
-        </div>-->
-        
     </div>
 </template>
 
