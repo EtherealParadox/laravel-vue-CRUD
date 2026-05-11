@@ -6,7 +6,7 @@
 
 ### Application/Tools Used:
 
--**[VSCode](https://code.visualstudio.com/).
+- **[VSCode](https://code.visualstudio.com/).
 - **[Xampp](https://www.apachefriends.org/).
 - **[Composer](https://getcomposer.org/doc/).
 - **[Node.js](https://nodejs.org/docs/latest/api/).
@@ -69,4 +69,5 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).-->
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT). 
+-->
